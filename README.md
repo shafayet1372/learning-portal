@@ -43,7 +43,7 @@ Admin Dashboard :
 
 URL & Credential:
 
-http://localhost:3000/admin
+ https://learningportal.netlify.app/admin or http://localhost:3000/admin(Local)
 
 email: admin@shafayet.com
 
