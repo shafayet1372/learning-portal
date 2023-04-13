@@ -1,46 +1,55 @@
-# Getting Started with Create React App and Redux
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+# Learning Portal React Redux RTK Query
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technology Used
+* React js
+* Tailwind css
+* React-router-Dom v6
+* Json Server
+* Json Server Auth
+* Redux Rtk Query
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Please follow the instruction properly
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ You can run this project in the local pc or you can just follow the live link
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Live Link: https://learningportal.netlify.app/
 
-### `npm run eject`
+* If you open the link in the browser or run it in the local pc you must have to start the Json server for backend database and auth system.Please follow the json server github repo given below.
+Json Server Repo: https://github.com/shafayet1372/learningportal-server
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Go to this repo and download in your machine and run the commands below
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+  npm  i
+```
+```bash
+  npm  start
+```
+Now the Json server has started on http://localhost:9000/.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Admin Dashboard :
+* Admin can add course videos (youtube embedded link)
+* Admin can add quizes to a specific video
+* Admin can assignments to a specific video and give mark range
+* Admin can add assignment marks to assignments submitted by students
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+URL & Credential:
 
-## Learn More
+http://localhost:3000/admin
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+email: admin@shafayet.com
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+password: lws@123456
+
+
+![App Screenshot](https://prnt.sc/UgwJIen8WUpl)
+
+
