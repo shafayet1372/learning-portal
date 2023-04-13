@@ -50,6 +50,11 @@ email: admin@shafayet.com
 password: lws@123456
 
 
-![App Screenshot](https://prnt.sc/UgwJIen8WUpl)
+Student Dashboard :
+* Student can register or login to course Dashboard
+* Student can add watch course videos (youtube embedded link)
+* Student can submit quizes of a specific video
+* Student can  submit assignments of a specific video 
+* Student can see his/her rank in the leaderboard
 
-
+# Demo video link :
