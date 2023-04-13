@@ -57,4 +57,5 @@ Student Dashboard :
 * Student can  submit assignments of a specific video 
 * Student can see his/her rank in the leaderboard
 
-# Demo video link : https://www.loom.com/share/53aad200833b43a18c83697c58b26579
+# Demo video link :
+https://www.loom.com/share/53aad200833b43a18c83697c58b26579
